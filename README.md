@@ -10,7 +10,6 @@
 
 
 ## 异常检测
-（2018CVPR）Real-world Anomaly Detection in Surveillance Videos
-
-[paper]: https://arxiv.org/abs/1801.04264	"paper"
+- <a name=""></a> (**2018CVPR**) Real-world Anomaly Detection in Surveillance Videos[[paper](https://arxiv.org/abs/1801.04264)]
+这篇文章提出了一个更大的异常数据集。
 
