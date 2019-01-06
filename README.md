@@ -10,7 +10,7 @@
 
 
 ## 异常检测
-- <a name=""></a> (**2018CVPR**) Real-world Anomaly Detection in Surveillance Videos[[论文](https://arxiv.org/abs/1801.04264)][[笔记](https://baijiahao.baidu.com/s?id=1595426742680707340&wfr=spider&for=pc)[代码一](https://github.com/abhay97ps/Anomaly-Detection-in-Surveillance-Videos)[代码二](https://github.com/kanwalkumar/Real-World-Anomaly-Detection)]<br>
+- <a name=""></a> (**2018CVPR**) Real-world Anomaly Detection in Surveillance Videos[[论文](https://arxiv.org/abs/1801.04264)][[笔记](https://baijiahao.baidu.com/s?id=1595426742680707340&wfr=spider&for=pc)[[代码一](https://github.com/abhay97ps/Anomaly-Detection-in-Surveillance-Videos)][[代码二](https://github.com/kanwalkumar/Real-World-Anomaly-Detection)]<br>
 
   <p style="text-indent:2em"></p><details>
   <summary>摘要</summary>
