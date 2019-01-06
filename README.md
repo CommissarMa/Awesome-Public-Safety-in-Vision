@@ -49,3 +49,6 @@
   人脸抓拍：能够对经过设定区域的行人进行人脸检测和人脸跟踪，抓拍出最为清晰的人脸图像。抓拍界面如下图所示。<br>
   人脸比对识别:系统可以配置黑名单数据库。人脸比对识别主要是对抓拍到的人脸与黑名单数据库中的人脸照片进行实时比对。<br>
   </details>
+  
+  
+[[本项目受Awesome Crowd Counting启发，表示感谢！](https://github.com/gjy3035/Awesome-Crowd-Counting/blob/master/README.md)]
