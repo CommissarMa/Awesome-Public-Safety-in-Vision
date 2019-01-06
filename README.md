@@ -18,14 +18,14 @@
   </details>
 
 
-##行人再识别
+## 行人再识别
 
 
-##动作识别
+## 动作识别
 
 
-##海康威视
-[[海康智能视频分析产品](https://www.hikvision.com/cn/prlb_260.html)]
+## 海康威视
+  [[海康智能视频分析产品](https://www.hikvision.com/cn/prlb_260.html)]
   <p style="text-indent:2em"></p><details>
   <summary>智能视频分析</summary>
   检测内容包括信号丢失、图像模糊、对比度、图像过亮、图像过暗、图像偏色、噪声干扰、条纹干扰、黑白图像、画面冻结、视频剧变、视频抖动、场景变更、视频遮挡、云台失控、登录失败、取流异常共17种常见摄像机故障。<br>
