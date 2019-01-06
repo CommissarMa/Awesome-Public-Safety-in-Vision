@@ -14,11 +14,7 @@
 
   <p style="text-indent:2em"></p><details>
   <summary>摘要</summary>
-  任务：自动识别视频中是否存在异常事件，但并没有检测具体属于什么异常，结果只是某一帧是异常的<br>
-
-  新提出数据集UCF-Crime包括：1900段视频，每段视频平均7247帧，数据集总长度128小时<br>
-
-  数据集中的异常事件包括：Abuse, arrest, arson, assault, accident, burglary, fighting, robbery <br>
+  任务：自动识别视频中是否存在异常事件，但并没有检测具体属于什么异常，结果只是某一帧是异常的<br>新提出数据集UCF-Crime包括：1900段视频，每段视频平均7247帧，数据集总长度128小时<br>数据集中的异常事件包括：Abuse, arrest, arson, assault, accident, burglary, fighting, robbery <br>
 
   </details>
 
